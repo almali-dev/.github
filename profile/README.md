@@ -1,6 +1,11 @@
-# Almali
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almali-dev/.github/main/brand/almali-horizontal-dark.svg">
+    <img alt="Almali" src="https://raw.githubusercontent.com/almali-dev/.github/main/brand/almali-horizontal.svg" height="72">
+  </picture>
+</p>
 
-Self-hosted tools for a better home media setup.
+<p align="center">Self-hosted tools for a better home media setup.</p>
 
 Almali is a small collection of independent, open-source projects for home media
 and self-hosting, built and maintained by [@mmarkimark](https://github.com/mmarkimark).

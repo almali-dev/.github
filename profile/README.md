@@ -13,11 +13,11 @@ Each project works on its own: install only what you need.
 
 ## Projects
 
-| | Project | What it does | Status |
-|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/almali-dev/.github/main/brand/llartv/png/app-icon-256.png" width="40" alt=""> | [**Almali LlarTV**](https://github.com/almali-dev/almali-llartv) | A light, fast home screen for Android TV: a large clock, a dock of your favourite apps and a full-screen photo, without recommendation rows or ads. | Available |
-| <img src="https://raw.githubusercontent.com/almali-dev/.github/main/brand/smart-cache/png/app-icon-256.png" width="40" alt=""> | **Almali Smart Cache for Plex · Unraid** | Moves Plex media between slow (HDD) and fast (SSD/NVMe) storage based on viewing patterns, with dry-run, transactional moves and recovery. | Coming soon |
-| <img src="https://raw.githubusercontent.com/almali-dev/.github/main/brand/library-curator/png/app-icon-256.png" width="40" alt=""> | **Almali Library Curator for Plex** | Shows what nobody watches in a Plex library and why, and removes only what you mark, after a grace period and a final re-check. | Coming soon |
+| Project | What it does | Status |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/almali-dev/.github/main/brand/llartv/png/app-icon-256.png" width="48" height="48" alt=""><br>[**Almali LlarTV**](https://github.com/almali-dev/almali-llartv) | A light, fast home screen for Android TV: a large clock, a dock of your favourite apps and a full-screen photo, without recommendation rows or ads. | Available |
+| <img src="https://raw.githubusercontent.com/almali-dev/.github/main/brand/smart-cache/png/app-icon-256.png" width="48" height="48" alt=""><br>**Almali Smart Cache for Plex · Unraid** | Moves Plex media between slow (HDD) and fast (SSD/NVMe) storage based on viewing patterns, with dry-run, transactional moves and recovery. | Coming soon |
+| <img src="https://raw.githubusercontent.com/almali-dev/.github/main/brand/library-curator/png/app-icon-256.png" width="48" height="48" alt=""><br>**Almali Library Curator for Plex** | Shows what nobody watches in a Plex library and why, and removes only what you mark, after a grace period and a final re-check. | Coming soon |
 
 ## Principles
 
